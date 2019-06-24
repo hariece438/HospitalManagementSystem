@@ -9,7 +9,6 @@ import com.hospital.models.BookBed;
 import com.hospital.models.Room;
 
 public class AccountancyListener {
-//comment
     private static AccountancyListener accountancyListener = new AccountancyListener();
 
     private static AccountantDAO accountantDAO = HospitalService.getInstance();
